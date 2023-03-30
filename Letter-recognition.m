@@ -8,7 +8,7 @@ clear
 
 % cl = 1;    % Asus
 cl = 2;     % Thinkpad
-
+% This project was carried out on two different computers, the code requires a data set and prtools to run.
 % Load / read data
 switch cl
     case 1,
